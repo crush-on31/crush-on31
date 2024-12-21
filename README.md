@@ -1,5 +1,5 @@
 ## Hi there 👋
-#https://github.com/crush-on31/Algorithm# 🌱 I’m currently learning Python3
+##https://github.com/crush-on31/Algorithm 🌱 I’m currently learning Python3
 
 <!--
 **crush-on31/crush-on31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ## Hi there 👋
-[](https://github.com/crush-on31/Algorithm) 🌱 I’m currently learning <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+[](https://github.com/crush-on31/Algorithm) 🌱 I’m currently learning   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 <!--
 **crush-on31/crush-on31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

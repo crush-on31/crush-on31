@@ -1,4 +1,4 @@
-## Hi there 👋
+## 데이터 분석
 [](https://github.com/crush-on31/Algorithm) 🌱 I’m currently learning  ...
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
